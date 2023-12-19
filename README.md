@@ -1,3 +1,12 @@
+# Authors
+Columbia Data Analytics Bootcamp
+
+December 2023
+
+Project 1 
+
+Authors: David Castaño, Jennifer Kim, Kathryn Lesh, and Scott Zuckerbrow
+
 # Introduction
 
 In this project we study oral health in the United States. The starting point is CDC data showing that there is wide variation by state in the percentage of the population that visits the dentist. Because oral health is a key component of overall physical health, it is important the understand why people do not visit the dentist, and what can be done to encourage and support oral health. 
